@@ -1,6 +1,6 @@
 # sy09TP3 - Euclidian Classifier and K Nearest Neighbours in R
 
-School project to study the Eculidian Classifier and the KNN method in R.
+School project to study the Euclidian Classifier and the KNN method in R.
 
 ## Context
 
