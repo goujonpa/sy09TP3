@@ -11,3 +11,4 @@ Aim was to study the implementations of the Euclidian Classifier and the KNN met
 Implemented :
 - Euclidian Classifier
 - K Nearest Neighbours method
+
